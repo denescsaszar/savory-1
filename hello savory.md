@@ -1,8 +1,8 @@
 hello Savory,
 
-this is my first rampo
+this is my first repo
 
-md= mark down
+md= markdown
 
 # Headline 1
 
@@ -14,7 +14,7 @@ md= mark down
 
 **NOT** is bold
 
-Here is Google .{Google}.(htttps://google.com/) Link
+Here is Google .{Google}.(https://google.com/) Link
 
 ### Order List.
 1. First item
