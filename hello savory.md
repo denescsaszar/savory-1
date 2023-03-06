@@ -1,5 +1,8 @@
-hello Savory
+hello Savory,
+
 this is my first rampo
+
+md= mark down
 
 # Headline 1
 
@@ -22,4 +25,11 @@ Here is Google .{Google}.(htttps://google.com/) Link
 - First item
 - Second Item
 
+### Code
+```js
+for (let i = 0; i<6; i+++){
+}
+```
+
+if we just want to write a line of code just `i===0`
 
