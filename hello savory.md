@@ -14,7 +14,7 @@ md= markdown
 
 **NOT** is bold
 
-Here is Google .{Google}.(https://google.com/) Link
+Here is [Google](https://google.com/) Link
 
 ### Order List.
 1. First item
